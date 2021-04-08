@@ -1,0 +1,11 @@
+{
+  "name": "Monty-hall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marccodron/Monty-hall.git",
+  "author": "marccodron <logs@marc-codron.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
